@@ -1,1 +1,0 @@
-print("trying to understand through practice")
