@@ -6,7 +6,8 @@
   "name": "ecommerce-backend",
   "type": "module",
   "scripts": {
-    "dev": "node --watch --env-file=.env index.js"
+    "dev": "node --watch --env-file=.env index.js",
+    "start": "node server.js"
   },
   "engines": {"node": ">=20"}
 }
